@@ -36,5 +36,5 @@ public class Producto {
         sb.append('}');
         return sb.toString();
     }
-    
+    //Ejercicio terminado
 }
